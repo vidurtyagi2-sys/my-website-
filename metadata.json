@@ -1,0 +1,6 @@
+{
+  "name": "SAHAJ CAPITAL AUTOMOBILE",
+  "description": "Always committed to service — Professional mobile-first bike and automobile service booking platform for doorstep and workshop maintenance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

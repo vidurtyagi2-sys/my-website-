@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 410" fill="none">
+  <!-- Clean white background -->
+  <rect width="400" height="410" rx="24" fill="#FFFFFF" />
+
+  <!-- Wrench (Left Hand) -->
+  <g stroke="#291E0F" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M122 108 C108 108 100 120 105 133 C109 144 120 148 131 146 L169 235 C163 242 162 252 167 260 C173 269 186 271 195 264 C203 257 204 244 197 235 C193 230 187 228 182 228 L144 139 C150 130 150 116 141 107 C135 101 128 99 120 100 L129 114 L121 124 L108 113 Z" fill="#A8AAAC" />
+    <circle cx="182" cy="249" r="6.5" fill="#FFFFFF" />
+  </g>
+
+  <!-- Screwdriver Shaft (Right Hand) -->
+  <g stroke="#291E0F" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="274" y1="192" x2="306" y2="115" />
+    <polygon points="303,115 310,103 315,106 310,118" fill="#A8AAAC" />
+  </g>
+
+  <!-- Mechanic Shirt (Mustard Orange) -->
+  <g stroke="#291E0F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M84 252 C94 196 122 155 162 150 L238 150 C278 155 306 196 316 252 Z" fill="#DA8A16" />
+    <!-- Left & Right Sleeve Cuffs -->
+    <path d="M82 254 L132 246 L136 229 L88 235 Z" fill="#DA8A16" />
+    <path d="M318 254 L268 246 L264 229 L312 235 Z" fill="#DA8A16" />
+  </g>
+
+  <!-- Blue Overalls / Apron -->
+  <g stroke="#291E0F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M142 292 L152 198 L248 198 L258 292 Z" fill="#2A74A5" />
+    <!-- Left & Right Straps -->
+    <path d="M156 150 L172 150 L180 198 L162 198 Z" fill="#2A74A5" />
+    <path d="M244 150 L228 150 L220 198 L238 198 Z" fill="#2A74A5" />
+    <!-- Dashed Chest Pocket Line -->
+    <line x1="175" y1="222" x2="225" y2="222" stroke="#291E0F" stroke-width="5" stroke-dasharray="10 10" />
+  </g>
+
+  <!-- Neck & Collar -->
+  <g stroke="#291E0F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 132 L180 156 C180 165 220 165 220 156 L220 132 Z" fill="#F8C09D" />
+    <path d="M174 139 C168 152 174 169 190 172 L200 162 L210 172 C226 169 232 152 226 139" fill="#DA8A16" />
+  </g>
+
+  <!-- Ears & Head -->
+  <g stroke="#291E0F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M162 84 C153 84 153 105 164 105" fill="#F8C09D" />
+    <path d="M238 84 C247 84 247 105 236 105" fill="#F8C09D" />
+    <path d="M162 64 C162 114 175 142 200 142 C225 142 238 114 238 64 C238 40 162 40 162 64 Z" fill="#F8C09D" />
+  </g>
+
+  <!-- Hair (Dark Brown) -->
+  <path d="M158 84 C156 58 164 38 178 36 C182 24 225 24 242 28 C248 40 245 64 242 84 C238 66 232 58 218 58 C196 58 184 52 172 56 C165 60 162 72 158 84 Z" fill="#291E0F" stroke="#291E0F" stroke-width="6" stroke-linejoin="round" />
+
+  <!-- Facial Features (Brows, Eyes, Nose, Smile) -->
+  <g stroke="#291E0F" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M174 72 Q183 69 191 72" stroke-width="5" />
+    <path d="M209 72 Q217 69 226 72" stroke-width="5" />
+    <rect x="177" y="80" width="9" height="5" rx="2.5" fill="#291E0F" stroke-width="2" />
+    <rect x="214" y="80" width="9" height="5" rx="2.5" fill="#291E0F" stroke-width="2" />
+    <path d="M202 77 L200 97 L205 97" stroke-width="4.5" />
+    <path d="M185 107 L215 107 C213 120 187 120 185 107 Z" fill="#FFFFFF" stroke-width="5.5" />
+  </g>
+
+  <!-- Screwdriver Handle -->
+  <g stroke="#291E0F" stroke-width="7.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="252" y="185" width="22" height="68" rx="10" transform="rotate(23 252 185)" fill="#DA8A16" />
+  </g>
+
+  <!-- Arms & Hands Holding Tools -->
+  <g stroke="#291E0F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Left Forearm & Hand -->
+    <path d="M90 252 C84 282 100 302 124 294 L164 260 C174 242 180 218 173 200 C166 188 148 190 144 204 L148 232 L112 248 Z" fill="#F8C09D" />
+    <!-- Right Forearm & Hand -->
+    <path d="M310 252 C316 282 300 302 276 294 L236 260 C226 242 220 218 227 200 C234 188 252 190 256 204 L252 232 L288 248 Z" fill="#F8C09D" />
+  </g>
+
+  <!-- Horizontal Base Line -->
+  <line x1="48" y1="292" x2="352" y2="292" stroke="#291E0F" stroke-width="8" stroke-linecap="round" />
+
+  <!-- Typography: SERVICE / HIGH QUALITY -->
+  <text x="200" y="358" text-anchor="middle" font-family="'Plus Jakarta Sans', 'Arial Black', sans-serif" font-weight="800" font-size="60" letter-spacing="6" fill="#291E0F">SERVICE</text>
+  <text x="200" y="392" text-anchor="middle" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-weight="600" font-size="22" letter-spacing="10" fill="#291E0F">HIGH QUALITY</text>
+</svg>

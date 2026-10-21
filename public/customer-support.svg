@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 440" fill="none">
+  <rect width="400" height="440" rx="24" fill="#FFFFFF" />
+
+  <!-- Headset Band -->
+  <path d="M 118 116 C 118 22, 282 22, 282 116" stroke="#000000" stroke-width="18" stroke-linecap="round" />
+
+  <!-- Left & Right Ear Cups -->
+  <rect x="94" y="96" width="38" height="66" rx="19" fill="#000000" />
+  <rect x="268" y="96" width="38" height="66" rx="19" fill="#000000" />
+
+  <!-- Head Outline & Hair Silhouette -->
+  <path d="M 132 126 C 132 204, 162 232, 200 232 C 238 232, 268 204, 268 126 C 268 68, 132 68, 132 126 Z" fill="#FFFFFF" stroke="#000000" stroke-width="12" />
+  <path d="M 130 140 C 130 74, 270 74, 270 140 L 258 146 L 250 100 C 224 114, 178 114, 150 100 L 142 146 Z" fill="#000000" />
+
+  <!-- Headset Microphone Boom & Capsule -->
+  <path d="M 284 148 C 272 178, 238 188, 206 188" stroke="#000000" stroke-width="14" stroke-linecap="round" />
+  <rect x="180" y="175" width="38" height="26" rx="13" fill="#000000" />
+
+  <!-- Shoulders / Torso Silhouette -->
+  <path d="M 48 312 C 58 248, 96 226, 138 226 C 142 254, 258 254, 262 226 C 304 226, 342 248, 352 312 Z" fill="#000000" />
+
+  <!-- Bottom Black Rounded Banner with 5 White Stars -->
+  <rect x="16" y="328" width="368" height="92" rx="22" fill="#000000" />
+
+  <!-- 5 White 5-Pointed Stars -->
+  <g fill="#FFFFFF">
+    <!-- Star 1 -->
+    <polygon points="66,348 73,363 90,365 78,377 81,394 66,386 51,394 54,377 42,365 59,363" />
+    <!-- Star 2 -->
+    <polygon points="133,348 140,363 157,365 145,377 148,394 133,386 118,394 121,377 109,365 126,363" />
+    <!-- Star 3 -->
+    <polygon points="200,348 207,363 224,365 212,377 215,394 200,386 185,394 188,377 176,365 193,363" />
+    <!-- Star 4 -->
+    <polygon points="267,348 274,363 291,365 279,377 282,394 267,386 252,394 255,377 243,365 260,363" />
+    <!-- Star 5 -->
+    <polygon points="334,348 341,363 358,365 346,377 349,394 334,386 319,394 322,377 310,365 327,363" />
+  </g>
+</svg>

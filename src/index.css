@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    background-color: #FAFAFA;
+    color: #000000;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4 {
+    text-wrap: balance;
+    color: #DC2626;
+  }
+
+  strong, b {
+    color: #DC2626;
+  }
+}
+
+/* Make all dark bold / extrabold words Red (#DC2626) across the entire app */
+.font-extrabold,
+.font-bold {
+  color: #DC2626 !important;
+}
+
+/* Keep text inside solid red buttons & badges crisp white so they remain clearly readable */
+.bg-\[\#DC2626\],
+.bg-\[\#DC2626\] *,
+.bg-\[\#E60000\],
+.bg-\[\#E60000\] * {
+  color: #FFFFFF !important;
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

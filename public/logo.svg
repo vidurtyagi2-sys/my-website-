@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" fill="none">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&amp;display=swap');
+    .logo-title {
+      font-family: 'Fredoka', 'Arial Rounded MT Bold', 'Nunito', sans-serif;
+      font-weight: 600;
+      fill: #FFFFFF;
+      letter-spacing: 2px;
+    }
+    .logo-tagline {
+      font-family: 'Fredoka', 'Nunito', sans-serif;
+      font-weight: 400;
+      fill: #0D8BDC;
+      letter-spacing: 0.5px;
+    }
+  </style>
+  <!-- Exact Original Brand Blue Rectangle -->
+  <rect x="60" y="24" width="680" height="236" fill="#0D8BDC" />
+  <!-- SAHAJ CAPITAL (White) -->
+  <text x="400" y="130" text-anchor="middle" font-size="68" class="logo-title">SAHAJ CAPITAL</text>
+  <!-- AUTOMOBILE (White) -->
+  <text x="400" y="212" text-anchor="middle" font-size="68" class="logo-title">AUTOMOBILE</text>
+  <!-- Always committed to service (Brand Blue) -->
+  <text x="400" y="335" text-anchor="middle" font-size="45" class="logo-tagline">Always committed to service</text>
+</svg>
